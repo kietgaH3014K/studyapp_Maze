@@ -1,0 +1,18 @@
+.hero {
+  padding: 3rem 1rem;
+  background-color: #fff7f0;
+}
+.hero-img {
+  width: 320px;
+  margin: 0 auto;
+}
+.hero h1 {
+  font-size: 40px;
+  font-weight: bold;
+  margin-top: 1rem;
+  color: #5a3e2b;
+}
+.hero p {
+  font-size: 18px;
+  color: #8b6a4a;
+}
